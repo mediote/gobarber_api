@@ -1,0 +1,30 @@
+ yarn add tsconfig-paths -D
+ yarn add tsyringe
+
+yarn add jest -D
+yarn jest --init
+yarn add ts-jest -D
+yarn add @types/jest -D
+yarn add handlebars
+
+
+yarn add mongodb
+yarn add @types/mongodb -D
+
+
+yarn add celebrate
+yarn add @types/hapi__joi -D
+
+yarn add dotenv
+yarn add class-transformer
+
+yarn add aws-sdk
+yarn add mime
+
+
+yarn add ioredis
+yarn add @types/ioredis -D
+
+yarn add rate-limiter-flexible
+yarn add redis
+yarn add @types/redis
